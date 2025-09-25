@@ -1,19 +1,12 @@
-Perfect 👌 Since this is a **Java Swing UI Application** for **student management**, I’ll create a professional `README.md` file for your repo `Java-Swing-UI-App`.
-It will explain the project, features, installation, usage, and screenshots.
-
-Here’s the full file:
-
----
-
 ```markdown
-# 🎓 Java Swing UI App – Student Management System
+#  Java Swing UI App – Student Management System
 
 This project is a **Java Swing desktop application** designed for managing students, teachers, absences, grades, and administration in a school/lycée environment.  
 It provides a user-friendly interface and connects to a MySQL database for storing and managing academic data.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 👨‍🎓 **Student Management** (internal & external students)
 - 👩‍🏫 **Teacher Management** (internal staff)
